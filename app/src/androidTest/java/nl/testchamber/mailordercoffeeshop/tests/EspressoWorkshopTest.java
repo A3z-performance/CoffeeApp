@@ -59,7 +59,7 @@ public class EspressoWorkshopTest {
     private OrderPage mOrderPage;
 
     private static final String coffee = "Breve";
-    private static final String ingredients = "Ingredients:\n2 shots of Espresso\\nHalf & half";
+    private static final String ingredients = "Ingredients:\n2 shots of Espresso\nHalf & half";
     private static final String buyerName = "Andrew";
     private static final String buyerMail = "example@gmail.com";
 
